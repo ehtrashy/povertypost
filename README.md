@@ -1,1 +1,1 @@
-# povertypost.github.io
+# povertypost
